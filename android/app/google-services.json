@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072188550475",
+    "project_id": "trtworld-91d10",
+    "storage_bucket": "trtworld-91d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072188550475:android:1f8093cc78612bfbaa4cce",
+        "android_client_info": {
+          "package_name": "com.trt_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimvwl01asCdC3MAKSnmgEQXcNajTJdzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
