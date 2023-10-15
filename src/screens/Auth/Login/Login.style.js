@@ -1,9 +1,8 @@
-import {Dimensions, StyleSheet} from 'react-native';
+import {StyleSheet} from 'react-native';
 
 export default StyleSheet.create({
   container: {
-    alignItems: 'center',
-    justifyContent: 'space-around',
     flex: 1,
+    justifyContent: 'space-around',
   },
 });

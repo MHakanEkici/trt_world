@@ -1,6 +1,7 @@
 const tr = {
   Login: 'Giriş Yap',
   SignUp: 'Kayıt Ol',
+  Logout: 'Çıkış Yap',
   Name: 'İsim *',
   NamePlaceholder: 'İsim...',
   Surname: 'Soyisim *',
@@ -13,5 +14,7 @@ const tr = {
   ConfirmPasswordPlaceholder: 'Parolayı Onayla...',
 
   Back: 'Geri',
+  Popular: 'POPÜLER',
+  Opinion: 'KÖŞE YAZISI',
 };
 export default tr;

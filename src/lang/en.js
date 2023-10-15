@@ -1,6 +1,7 @@
 const en = {
   Login: 'Login',
   SignUp: 'Sign Up',
+  Logout: 'Logout',
   Name: 'Name *',
   NamePlaceholder: 'Email...',
   Surname: 'Surname *',
@@ -13,5 +14,7 @@ const en = {
   ConfirmPasswordPlaceholder: 'Confirm Password...',
 
   Back: 'Back',
+  Popular: 'POPULAR',
+  Opinion: 'OPINION',
 };
 export default en;
